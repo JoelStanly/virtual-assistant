@@ -1,0 +1,16 @@
+{
+    "intents":[
+        {
+            "tag":"hello",
+            "patterns":["hii there!!!","welcome?"],
+            "responses":["hello","welcome again"],
+            "context_set":""
+        },
+        {
+            "tag":"bye",
+            "patterns":["bye","quit"],
+            "responses":["tc","talk to you later"],
+            "context_set":""
+        }
+    ]
+}
